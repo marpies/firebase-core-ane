@@ -1,6 +1,6 @@
-# FirebaseCore | Extension for Adobe AIR (iOS & Android)
+# Firebase Core | Extension for Adobe AIR (iOS & Android)
 
-Extension providing common dependencies required for other Firebase services.
+[Firebase](https://firebase.google.com/docs/) gives you the tools to develop high-quality apps, grow your user base, and earn more money. This extension provides basic analytics and common dependencies required for other Firebase services, such as [Firebase Invites](https://github.com/marpies/firebase-invites-ane).
 
 Development of this extension is supported by [Master Tigra, Inc.](https://github.com/mastertigra)
 
